@@ -1,0 +1,19 @@
+{
+  "name": "humal-bench",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "devDependencies": {
+    "@danielx/civet": "^0.11.16",
+    "coffeescript": "^2.7.0",
+    "imba": "^2.0.0-alpha.253",
+    "typescript": "npm:@typescript/typescript6@^6.0.2"
+  }
+}
